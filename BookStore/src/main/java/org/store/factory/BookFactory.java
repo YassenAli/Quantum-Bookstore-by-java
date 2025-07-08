@@ -28,7 +28,6 @@ public class BookFactory implements IBookFactory {
         ));
     }
 
-    @Override
     public void register(String type, Function<Object[], IBook> ctor) {
         registry.put(type.toLowerCase(), ctor);
     }
