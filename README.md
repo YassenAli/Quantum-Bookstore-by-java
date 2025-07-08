@@ -4,7 +4,7 @@
 
 A simple, extensible online bookstore implemented in Java (Maven project).
 
-![Class Diagram](/assets/ClassDiagram.jpg)
+![Class Diagram](/assets/classDiagram.jpg)
 
 ## Project Structure
 
